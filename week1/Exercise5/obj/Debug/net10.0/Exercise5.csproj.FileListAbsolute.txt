@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.AssemblyInfo.cs
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.sourcelink.json
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\bin\Debug\net10.0\Exercise5.exe
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\bin\Debug\net10.0\Exercise5.deps.json
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\bin\Debug\net10.0\Exercise5.runtimeconfig.json
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\bin\Debug\net10.0\Exercise5.dll
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\bin\Debug\net10.0\Exercise5.pdb
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.dll
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\refint\Exercise5.dll
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.pdb
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\Exercise5.genruntimeconfig.cache
+C:\Users\User\Desktop\BYU_Classes\CSE210\cse210\week01\Exercise5\obj\Debug\net10.0\ref\Exercise5.dll
