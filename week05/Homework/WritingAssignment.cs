@@ -1,3 +1,4 @@
+
 public class WritingAssignment : Assignment
 
 {
@@ -9,7 +10,11 @@ public class WritingAssignment : Assignment
 
     public string GetWritingInformation()
     {
-        string studentName = GetstudentName();
+        string studentName = GetStudentName();
         return $"{_title} by {studentName}";
+
     }
+
+
+
 }

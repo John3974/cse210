@@ -1,3 +1,4 @@
+
 using System.Runtime.CompilerServices;
 
 public class MathAssignment : Assignment
@@ -25,7 +26,7 @@ public class MathAssignment : Assignment
     {
         return _text_book_section;
     }
-    public string Getproblems()
+    public string GetProblems()
     {
         return _Problems;
     }
@@ -35,6 +36,4 @@ public class MathAssignment : Assignment
         return $"{GetSummary()},Textbook section: {_text_book_section},problems:{_Problems}";
     }
 
-
 }
-
